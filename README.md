@@ -1,5 +1,5 @@
 # FreeCodeCamp - Tic-Tac-Toe Game
->[Live Demo](https://archanabansal88.github.io/tic-tac-toe/)
+>[Live Demo](https://archanabansal88.github.io/tic-tac-toe/index.html)
 
 ## Project Purpose:
 
