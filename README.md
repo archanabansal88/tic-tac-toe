@@ -3,10 +3,15 @@
 
 ## Project Purpose:
 
-This creates a great opportunity to practice object-oriented programming and API calls.
+This creates a great opportunity to practice object-oriented programming.
 
 ## Project Requirements:
 
 * user can choose whether he/she will play the game as one player with the computer or as two player.
 * user can choose whether he/she want to play as X or O.
 * The game will reset on clicking the button play again after it's over so user can play again.
+
+## How to run the application Locally
+
+* clone/download the repository
+* open index.html on the browser
